@@ -20,11 +20,11 @@
         "display5Font": "Rubik",
         "display5Size": 1.5,
         "display7Font": "Libre Baskerville",
-        "display7Size": 1,
+        "display7Size": "0.8",
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
