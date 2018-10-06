@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -21,14 +20,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -49,7 +48,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -659,7 +658,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1387,9 +1386,33 @@ body {
 }
 .cid-r5dur9LoPj H1 {
   color: #ffffff;
+  text-align: center;
 }
 .cid-r5dur9LoPj P {
   text-align: center;
+}
+.cid-r5JfLHZkXr {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-r5JfLHZkXr .line {
+  background-color: #232323;
+  color: #232323;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r5JfLHZkXr .section-text {
+  padding: 2rem 0;
+}
+.cid-r5JfLHZkXr .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r5JfLHZkXr .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-r5IJMsDBkB {
   padding-top: 45px;
