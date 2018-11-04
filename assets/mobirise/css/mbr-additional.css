@@ -1,9 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
-
-
-
-
-
 body {
   font-style: normal;
   line-height: 1.5;
@@ -20,35 +14,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arial';
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arial';
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arial';
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arial';
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arial';
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -658,7 +652,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arial';
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -2176,10 +2170,10 @@ body {
 .cid-r5dur9LoPj {
   padding-top: 120px;
   padding-bottom: 15px;
-  background-color: #b2ccd2;
+  background-color: #ffffff;
 }
 .cid-r5dur9LoPj H1 {
-  color: #ffffff;
+  color: #232323;
   text-align: center;
 }
 .cid-r5dur9LoPj P {
@@ -2227,7 +2221,7 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #b2ccd2;
+  background: #232323;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -2256,7 +2250,7 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #b2ccd2 !important;
+  background: #232323 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
@@ -3085,10 +3079,10 @@ body {
 .cid-r7cfahRLex {
   padding-top: 120px;
   padding-bottom: 15px;
-  background-color: #b2ccd2;
+  background-color: #ffffff;
 }
 .cid-r7cfahRLex H1 {
-  color: #ffffff;
+  color: #232323;
   text-align: center;
 }
 .cid-r7cfahRLex P {
@@ -3120,7 +3114,7 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #b2ccd2;
+  background: #232323;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -3149,7 +3143,7 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #b2ccd2 !important;
+  background: #232323 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
@@ -3554,10 +3548,10 @@ body {
 .cid-r7cfoFzZs1 {
   padding-top: 120px;
   padding-bottom: 15px;
-  background-color: #b2ccd2;
+  background-color: #ffffff;
 }
 .cid-r7cfoFzZs1 H1 {
-  color: #ffffff;
+  color: #232323;
   text-align: center;
 }
 .cid-r7cfoFzZs1 P {
@@ -3589,7 +3583,7 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #b2ccd2;
+  background: #232323;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -3618,7 +3612,7 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #b2ccd2 !important;
+  background: #232323 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
@@ -4023,7 +4017,7 @@ body {
 .cid-r7cs0lKEEo {
   padding-top: 105px;
   padding-bottom: 90px;
-  background-color: #b2ccd2;
+  background-color: #232323;
 }
 @media (min-width: 992px) {
   .cid-r7cs0lKEEo .mbr-figure {
@@ -4463,7 +4457,7 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #b2ccd2;
+  background: #232323;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -4492,7 +4486,7 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #b2ccd2 !important;
+  background: #232323 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
@@ -5367,7 +5361,7 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #b2ccd2;
+  background: #232323;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -5396,7 +5390,7 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #b2ccd2 !important;
+  background: #232323 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
