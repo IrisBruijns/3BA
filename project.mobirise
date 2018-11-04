@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Publicatie 3BA",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,28 +13,27 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Arial",
+        "display1Font": "Rubik",
         "display1Size": 4.25,
-        "display2Font": "Arial",
+        "display2Font": "Rubik",
         "display2Size": 3,
-        "display5Font": "Arial",
+        "display5Font": "Rubik",
         "display5Size": 1.5,
-        "display7Font": "Arial",
+        "display7Font": "Rubik",
         "display7Size": 1,
-        "display4Font": "Arial",
+        "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      },
-      "additionalSetColors": []
+      }
     },
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126744290-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126744290-1');\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 7,
+    "uniqCompNum": 5,
     "versionPublish": "4.8.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -43,12 +42,6 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i",
         "name": "Rubik",
         "css": "'Rubik', sans-serif"
-      },
-      {
-        "css": "'Arial'",
-        "name": "Arial",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Arial/font.ttf"
       }
     ]
   },
@@ -5319,11 +5312,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "r7chOXJ0Yt",
+          "_anchor": "menu2-5",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu2-5"
+          "_params": {}
         },
         {
           "_styles": {
