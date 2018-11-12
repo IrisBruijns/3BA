@@ -2147,13 +2147,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schermafdruk-2018-11-12-12.22.22.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafdruk-2018-11-12-12.22.22-800x556.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "BOEKEN",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Sympathieke",
@@ -2192,7 +2192,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"page10.html\">POSTERS</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Geweldige",
