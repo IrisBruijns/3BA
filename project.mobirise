@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Publicatie 3BA",
-    "currentPage": "page8.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2145,7 +2145,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "BOEKEN",
+                "caption": "<a href=\"page6.html\" class=\"text-white\">BOEKEN</a>",
                 "active": false
               },
               {
@@ -2158,7 +2158,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page7.html\" class=\"text-primary\">PLATENHOES</a>",
+                "caption": "<a href=\"page7.html\" class=\"text-white\">PLATENHOES</a>",
                 "active": false
               },
               {
@@ -2171,7 +2171,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page11.html\">WEBSITE</a>",
+                "caption": "<a href=\"page11.html\" class=\"text-white\">WEBSITE</a>",
                 "active": true
               },
               {
@@ -2184,7 +2184,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page10.html\">POSTERS</a>",
+                "caption": "<a href=\"page10.html\" class=\"text-white\">POSTERS</a>",
                 "active": false
               },
               {
@@ -2756,7 +2756,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page9.html\">ILLUSTRATIES</a><br>",
+                "caption": "<a href=\"page9.html\" class=\"text-white\">ILLUSTRATIES</a><br>",
                 "active": false
               },
               {
@@ -2769,7 +2769,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "TEKENINGEN<br>",
+                "caption": "<a href=\"page8.html\" class=\"text-white\">TEKENINGEN</a><br>",
                 "active": true
               }
             ]
