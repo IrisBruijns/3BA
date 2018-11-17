@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Publicatie 3BA",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -18,7 +18,7 @@
         "display2Font": "Arial",
         "display2Size": 3,
         "display5Font": "Arial",
-        "display5Size": 1.5,
+        "display5Size": "2.4",
         "display7Font": "Arial",
         "display7Size": 1,
         "display4Font": "Arial",
