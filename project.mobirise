@@ -2151,7 +2151,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "BOEKEN",
+                "caption": "<a href=\"page6.html\" class=\"text-white\">BOEKEN</a>",
                 "active": false
               },
               {
@@ -2177,7 +2177,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "WEBSITE",
+                "caption": "<a href=\"page11.html\" class=\"text-white\">WEBSITE</a>",
                 "active": true
               },
               {
