@@ -938,7 +938,7 @@
             },
             "H1": {
               "color": "#232323",
-              "text-align": "center"
+              "text-align": "left"
             },
             "P": {
               "text-align": "center"
@@ -2036,7 +2036,7 @@
             },
             "H1": {
               "color": "#232323",
-              "text-align": "center"
+              "text-align": "left"
             },
             "P": {
               "text-align": "center"
@@ -2647,7 +2647,7 @@
             },
             "H1": {
               "color": "#232323",
-              "text-align": "center"
+              "text-align": "left"
             },
             "P": {
               "text-align": "center"
