@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Publicatie 3BA",
-    "currentPage": "page11.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -26,15 +26,16 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": []
     },
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126744290-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126744290-1');\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 6,
-    "versionPublish": "4.8.4",
+    "uniqCompNum": 7,
+    "versionPublish": "4.9.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -499,6 +500,39 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "token": "921919458.727bfe1.c17192feb68a48c8a2553aaf782519b8",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#fafafa",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-black-outline\" href=\"#\" data-max-id=\"1937394695408120247_921919458\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-6"
         }
       ]
     },
@@ -6069,19 +6103,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Minima Docta 2018<br>Body and Soul - Michel Petrucciani<br>",
-                "active": false
-              },
-              {
-                "tags": "Sympathieke",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/defaffiche3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/defaffiche3-800x1162.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Minima Docta 2018<br>Between the Fiction and Me",
                 "active": true
               }
             ]
@@ -6549,16 +6570,19 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>James Joyce + Rosetta Stone + 4'33'' John Cage</b></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>James Joyce + Rosetta Stone + 4'33'' John Cage</div>\n        </div>\n    </div>\n</section>",
           "_cid": "rhHUobYOGw",
+          "_anchor": "content1-5",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-5"
+          "_params": {}
         }
       ]
     }
