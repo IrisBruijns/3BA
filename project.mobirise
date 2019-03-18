@@ -504,7 +504,7 @@
         {
           "_params": {
             "token": "921919458.727bfe1.c17192feb68a48c8a2553aaf782519b8",
-            "showTitle": true,
+            "showTitle": false,
             "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
             "rows": 2,
