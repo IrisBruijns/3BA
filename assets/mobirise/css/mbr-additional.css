@@ -1773,12 +1773,13 @@ body {
 .cid-r5SDIvv0HY .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-r5du0nJP3n {
-  background-image: url("../../../assets/images/1-1.jpg");
+.cid-rrtjJbpj6s {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-r5du0nJP3n H1 {
-  color: #232323;
-  text-align: left;
+.cid-rrtjJbpj6s .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-r7chUicJrF .navbar {
   background: #ffffff;
